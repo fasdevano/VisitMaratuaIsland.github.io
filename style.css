@@ -955,19 +955,6 @@ section {
     gap: 5px;
 }
 
-.activity-cta {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    margin-top: 14px;
-    font-size: 0.78rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--teal);
-    transition: gap var(--transition);
-}
-
 [data-theme="dark"] .activity-cta {
     color: var(--aqua);
 }
